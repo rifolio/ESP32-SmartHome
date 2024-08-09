@@ -5,8 +5,10 @@
 
 Global warming is leading to more frequent and severe heatwaves, increasing reliance on air conditioning systems and, consequently, energy consumption and greenhouse gas emissions. To address this, the Smart Light-Reactive Blinds System is designed to help maintain cooler indoor temperatures while reducing energy use.
 
+Link to YouTube video demonstration can be found [here](https://youtu.be/vk_omHJeUeQ?si=Bxe5fRH_uR0YrgOH)
+
 ### Problem Statement
-The project explores how light-reactive blinds can be designed to effectively maintain cooler indoor temperatures and reduce energy consumption in response to global warming.
+The project explores how light-reactive blinds can be designedv to effectively maintain cooler indoor temperatures and reduce energy consumption in response to global warming.
 
 ### Project Description
 This project involves the development of a Smart Home Device using an ESP32 microcontroller. The device hosts an HTML webpage that displays real-time indoor conditions by measuring light intensity using a light sensor. The webpage includes a JavaScript simulation that visually demonstrates how the blinds adjust to different light conditions, aiming to reduce the need for artificial cooling by regulating sunlight exposure.
